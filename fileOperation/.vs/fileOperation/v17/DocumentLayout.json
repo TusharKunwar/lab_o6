@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\subject\u0027s note\\net centric\\program\\lab 4\\fileOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EDAC6-A20E-4E0E-9EB9-7E5D8C9EB1DA}|fileOperation.csproj|d:\\subject\u0027s note\\net centric\\program\\lab 4\\fileoperation\\bin\\debug\\net8.0\\ram.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E6EDAC6-A20E-4E0E-9EB9-7E5D8C9EB1DA}|fileOperation.csproj|solutionrelative:bin\\debug\\net8.0\\ram.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6EDAC6-A20E-4E0E-9EB9-7E5D8C9EB1DA}|fileOperation.csproj|d:\\subject\u0027s note\\net centric\\program\\lab 4\\fileoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6EDAC6-A20E-4E0E-9EB9-7E5D8C9EB1DA}|fileOperation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ram.txt",
+              "DocumentMoniker": "D:\\subject\u0027s note\\net centric\\program\\lab 4\\fileOperation\\bin\\Debug\\net8.0\\ram.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0\\ram.txt",
+              "ToolTip": "D:\\subject\u0027s note\\net centric\\program\\lab 4\\fileOperation\\bin\\Debug\\net8.0\\ram.txt",
+              "RelativeToolTip": "bin\\Debug\\net8.0\\ram.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-23T12:37:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\subject\u0027s note\\net centric\\program\\lab 4\\fileOperation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\subject\u0027s note\\net centric\\program\\lab 4\\fileOperation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:35:57.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
